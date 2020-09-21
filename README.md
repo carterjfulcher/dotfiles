@@ -5,3 +5,4 @@
 - Terminal: Alactritty
 - Shell: Fish (OMF/bobthefish) 
 - Text Editor: Vim
+- Launcher: Rofi
