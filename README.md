@@ -8,3 +8,5 @@
 - Launcher: Rofi
 ![Gaps](images/gaps.png)
 ![Floating](images/floating.png)
+![Full](images/full.png)
+![Rofi](images/rofi.png)
