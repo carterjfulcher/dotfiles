@@ -6,3 +6,5 @@
 - Shell: Fish (OMF/bobthefish) 
 - Text Editor: Vim
 - Launcher: Rofi
+![Gaps](images/gaps.png)
+![Floating](images/floating.png)
